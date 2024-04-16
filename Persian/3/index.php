@@ -27,6 +27,7 @@ defined('SubTitle') || define('SubTitle', 'یکی از سوالات ذهن بن�
 	</noscript>
 	<link rel="stylesheet" href="css/bootstrap.rtl.min.css" />
 	<link rel="stylesheet" href="css/IRANSans_FaNum/css/fontiran.css" />
+	<link rel="stylesheet" href="Carousel-assets/style.css">
 	<style>
 		/* تغییر رنگ در وضعیت hover */
 		.svg-hover:hover {
@@ -87,5 +88,6 @@ defined('SubTitle') || define('SubTitle', 'یکی از سوالات ذهن بن�
 		});
 	});
 </script>
+<script src="Carousel-assets/script.js"></script>
 
 </html>

@@ -3,7 +3,6 @@
 defined('Title') || define('Title', ' تاريخ مرقد البقيع من التدمير إلى اليوم');
 defined('SubTitle') || define('SubTitle', 'حوار مع السيد الدكتور سيد علي موجاني مكتشف الصورة التي تعرف اليوم بمقام أئمة البقيع، وهو من أفضل الباحثين وأكثرهم خبرة في مجال أبحاث البقيع.');
 
-
 ?>
 <!DOCTYPE html>
 <html dir="rtl">
@@ -19,6 +18,8 @@ defined('SubTitle') || define('SubTitle', 'حوار مع السيد الدكتو
 	<script src="js/skel.min.js"></script>
 	<script src="js/skel-panels.min.js"></script>
 	<script src="js/init.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 	<noscript>
 		<link rel="stylesheet" href="css/skel-noscript.css" />
 		<link rel="stylesheet" href="css/style.css" />
@@ -27,6 +28,7 @@ defined('SubTitle') || define('SubTitle', 'حوار مع السيد الدكتو
 	</noscript>
 	<link rel="stylesheet" href="css/bootstrap.rtl.min.css" />
 	<link rel="stylesheet" href="css/IRANSans_FaNum/css/fontiran.css" />
+	<link rel="stylesheet" href="Carousel-assets/style.css">
 	<style>
 		/* تغییر رنگ در وضعیت hover */
 		.svg-hover:hover {
@@ -87,5 +89,6 @@ defined('SubTitle') || define('SubTitle', 'حوار مع السيد الدكتو
 		});
 	});
 </script>
+<script src="Carousel-assets/script.js"></script>
 
 </html>

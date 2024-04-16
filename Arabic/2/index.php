@@ -19,6 +19,8 @@ defined('SubTitle') || define('SubTitle', 'مشكلتي الرئيسية كان�
 	<script src="js/skel.min.js"></script>
 	<script src="js/skel-panels.min.js"></script>
 	<script src="js/init.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 	<noscript>
 		<link rel="stylesheet" href="css/skel-noscript.css" />
 		<link rel="stylesheet" href="css/style.css" />
@@ -27,6 +29,7 @@ defined('SubTitle') || define('SubTitle', 'مشكلتي الرئيسية كان�
 	</noscript>
 	<link rel="stylesheet" href="css/bootstrap.rtl.min.css" />
 	<link rel="stylesheet" href="css/IRANSans_FaNum/css/fontiran.css" />
+	<link rel="stylesheet" href="Carousel-assets/style.css">
 	<style>
 		/* تغییر رنگ در وضعیت hover */
 		.svg-hover:hover {
@@ -87,5 +90,6 @@ defined('SubTitle') || define('SubTitle', 'مشكلتي الرئيسية كان�
 		});
 	});
 </script>
+<script src="Carousel-assets/script.js"></script>
 
 </html>
